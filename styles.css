@@ -45,7 +45,6 @@ body#home p {
     margin: 12px 0;
   }
 }
-
 span.wave {
     animation-name: wave-animation;
     animation-duration: 2.5s;
